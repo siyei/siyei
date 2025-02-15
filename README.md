@@ -28,7 +28,7 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siyei&show_icons=true&theme=dark" />
 </p>
 
 ---
